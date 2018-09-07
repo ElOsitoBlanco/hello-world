@@ -1,1 +1,1 @@
-# hello-world
+Im a 27 year old restaurant manager learning to code late in life. Ive found that I love logic, and I also love design, and I have never been able to find a way to merge the two...unti I found the world of coding/programming. My ultimate goal is to create software and applications to aid the smooth operation of restaunts.
